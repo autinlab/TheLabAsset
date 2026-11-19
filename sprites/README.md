@@ -11,9 +11,9 @@ sprites/
     textures/       membrane segments and lipid look, a few protein textures, the ribosome and actin frames
 ```
 
-**LICENSE: TO BE DECIDED.** No licence applies yet. cellPAINT 2D's own repository is GPL-3.0; the licence of these
-images in this repository is pending a decision by Ludovic Autin. There is deliberately no LICENSE file here. Until
-then, do not redistribute the sprites outside this lab's projects.
+**Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** ([LICENSE](LICENSE)), © Autin lab, Scripps
+Research. Reuse them freely, crediting "cellPAINT sprites, Autin lab, Scripps Research" and citing the cellPAINT paper
+below. This licence covers the images in this folder only; cellPAINT 2D's code stays GPL-3.0.
 
 ## How they were made
 

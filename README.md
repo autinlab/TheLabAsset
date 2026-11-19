@@ -41,9 +41,9 @@ tools/        build_manifest.py (regenerates assets.json) + the scripts that mad
 
 ## Sprites
 
-`sprites/cellpaint/` holds cellPAINT 2D's flat molecule sprites (about 400 PNGs, 123 MB), with `sprites/index.json`:
+`sprites/cellpaint/` holds cellPAINT 2D's flat molecule sprites (387 PNGs, 123 MB), with `sprites/index.json`:
 URL, size, scale (pixels per Å), kind, PDB id and the recipes and ingredient names that use each. See
-[sprites/README.md](sprites/README.md) (scale convention, loading, citations). Licence: to be decided. Regenerate the
+[sprites/README.md](sprites/README.md) (scale convention, loading, citations). Licence: [CC BY 4.0](sprites/LICENSE). Regenerate the
 index with `python tools/build_sprites_index.py`.
 
 ## How they were made

@@ -3,8 +3,8 @@
  "repo": "https://github.com/autinlab/TheLabAsset",
  "base_url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/",
  "updated": "2026-11-19",
- "count": 406,
- "total_bytes": 123441663,
+ "count": 387,
+ "total_bytes": 123079583,
  "source": {
   "repo": "https://github.com/corredD/cellPAINT2D",
   "commit": "9b0eb4f",
@@ -328,32 +328,16 @@
    "antitrypsin_w.png": "antitrypsin_w",
    "argo2_w.png": "argo2_w",
    "argonaute_w.png": "argonaute_w",
-   "arrow.png": "arrow",
+   "arthur_olson.png": "arthur_olson",
    "atpsynthase.png": "atpsynthase",
    "capsid_background.png": "capsid_background",
-   "cat1.png": "cat1",
-   "cat2.png": "cat2",
-   "cat3.png": "cat3",
-   "cat4.png": "cat4",
-   "cat5.png": "cat5",
-   "cat6.png": "cat6",
-   "catmb1.png": "catmb1",
-   "catmb2.png": "catmb2",
-   "catmb3.png": "catmb3",
-   "catmb4.png": "catmb4",
-   "catmb5.png": "catmb5",
-   "catmb6.png": "catmb6",
-   "catmb7.png": "catmb7",
-   "catmb8.png": "catmb8",
    "cholesterol.png": "cholesterol",
    "cholesterol_inner.png": "cholesterol_inner",
+   "david_goodsell.png": "david_goodsell",
    "egf.png": "egf",
    "enolase_w.png": "enolase_w",
    "error.png": "error",
    "factorx.png": "factorx",
-   "fiber1.png": "fiber1",
-   "fiber2.png": "fiber2",
-   "fiber3.png": "fiber3",
    "fibrinogen_w.png": "fibrinogen_w",
    "grapes.png": "grapes",
    "grapes_old.png": "grapes_old",
@@ -365,6 +349,7 @@
    "lactate_w.png": "lactate_w",
    "lipidPEG_brush.png": "lipidPEG_brush",
    "lipidPEG_mushroom.png": "lipidPEG_mushroom",
+   "ludo.png": "ludo",
    "mRNA_C.png": "mRNA_C",
    "mRNA_C_crop.png": "mRNA_C_crop",
    "mRNA_w.png": "mRNA_w",
@@ -375,9 +360,6 @@
    "mb5.png": "mb5",
    "mb6.png": "mb6",
    "miRNA_C.png": "miRNA_C",
-   "molecule.png": "molecule",
-   "mouse1.png": "mouse1",
-   "mousemb1.png": "mousemb1",
    "nucleoprotein.png": "nucleoprotein",
    "nucleoproteindimer.png": "nucleoproteindimer",
    "penvelope.png": "penvelope",
@@ -385,7 +367,6 @@
    "protein_name2.png": "protein_name2",
    "protein_name3.png": "protein_name3",
    "pyruvate_w.png": "pyruvate_w",
-   "question.png": "question",
    "spike.png": "spike",
    "syntenin_w.png": "syntenin_w",
    "textures/actin_frames/Actin_1.png": "textures.actin_frames.Actin_1",
@@ -1099,53 +1080,11 @@
    "SERPINA1": [
     "alpha_1_antitrypsin_C"
    ],
-   "arrow": [
-    "arrow"
+   "Art Olson": [
+    "arthur_olson"
    ],
    "ATPSynthase": [
     "atpsynthase"
-   ],
-   "cat1": [
-    "cat1"
-   ],
-   "cat2": [
-    "cat2"
-   ],
-   "cat3": [
-    "cat3"
-   ],
-   "cat4": [
-    "cat4"
-   ],
-   "cat5": [
-    "cat5"
-   ],
-   "cat6": [
-    "cat6"
-   ],
-   "catmb1": [
-    "catmb1"
-   ],
-   "catmb2": [
-    "catmb2"
-   ],
-   "catmb3": [
-    "catmb3"
-   ],
-   "catmb4": [
-    "catmb4"
-   ],
-   "catmb5": [
-    "catmb5"
-   ],
-   "catmb6": [
-    "catmb6"
-   ],
-   "catmb7": [
-    "catmb7"
-   ],
-   "catmb8": [
-    "catmb8"
    ],
    "Cholesterol (Outer Membrane)": [
     "cholesterol"
@@ -1156,20 +1095,14 @@
    "Cholesterol (Inner Membrane)": [
     "cholesterol_inner"
    ],
+   "David Goodsell": [
+    "david_goodsell"
+   ],
    "EGFReceptor": [
     "egf"
    ],
    "FactorX": [
     "factorx"
-   ],
-   "fiber1": [
-    "fiber1"
-   ],
-   "fiber2": [
-    "fiber2"
-   ],
-   "fiber3": [
-    "fiber3"
    ],
    "Ionizable (Outer Membrane)": [
     "ionizable"
@@ -1186,6 +1119,9 @@
    "LipidPEG_Mushroom": [
     "lipidPEG_mushroom"
    ],
+   "Ludovic Autin": [
+    "ludo"
+   ],
    "ARNm": [
     "mRNA_C"
    ],
@@ -1195,15 +1131,6 @@
    "miRNA": [
     "miRNA_C"
    ],
-   "molecule": [
-    "molecule"
-   ],
-   "mouse1": [
-    "mouse1"
-   ],
-   "mousemb1": [
-    "mousemb1"
-   ],
    "N": [
     "nucleoprotein"
    ],
@@ -1212,9 +1139,6 @@
    ],
    "pEnv": [
     "penvelope"
-   ],
-   "question": [
-    "question"
    ],
    "spike": [
     "spike"
@@ -1279,24 +1203,88 @@
    "reason": "portrait of a person"
   },
   {
-   "file": "arthur_olson.png",
-   "reason": "portrait of a person"
+   "file": "arrow.png",
+   "reason": "cats recipe, left out for now"
   },
   {
    "file": "bridget-carragher.png",
    "reason": "portrait of a person"
   },
   {
-   "file": "danielle_grotjahn.png",
-   "reason": "portrait of a person"
+   "file": "cat1.png",
+   "reason": "cats recipe, left out for now"
   },
   {
-   "file": "david_goodsell.png",
+   "file": "cat2.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "cat3.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "cat4.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "cat5.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "cat6.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb1.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb2.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb3.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb4.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb5.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb6.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb7.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb8.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "danielle_grotjahn.png",
    "reason": "portrait of a person"
   },
   {
    "file": "drew_berry.png",
    "reason": "portrait of a person"
+  },
+  {
+   "file": "fiber1.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "fiber2.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "fiber3.png",
+   "reason": "cats recipe, left out for now"
   },
   {
    "file": "graham_johnson.png",
@@ -1307,8 +1295,20 @@
    "reason": "portrait of a person"
   },
   {
-   "file": "ludo.png",
-   "reason": "portrait of a person"
+   "file": "molecule.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "mouse1.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "mousemb1.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "question.png",
+   "reason": "cats recipe, left out for now"
   },
   {
    "file": "rommie-amaro.png",
@@ -14127,40 +14127,42 @@
    "source": "cellPAINT2D Assets/Resources/Recipie/argonaute_w.png"
   },
   {
-   "id": "arrow",
-   "file": "sprites/cellpaint/arrow.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/arrow.png",
-   "width": 51,
-   "height": 39,
-   "bytes": 5736,
-   "sha256": "6456a703d21bc12fd383800691ae1379d00ab004562190330a4c5b9238843997",
-   "scale2d": 3.0,
+   "id": "arthur_olson",
+   "file": "sprites/cellpaint/arthur_olson.png",
+   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/arthur_olson.png",
+   "width": 276,
+   "height": 328,
+   "bytes": 71433,
+   "sha256": "4c70166c03c5d00d7f7412424542084dfe90158bf0931ef7a866d8c84f484e8d",
+   "scale2d": 2.0,
    "scale2d_values": [
-    3.0
+    2.0
    ],
    "pivot": [
     0.5,
     0.5
    ],
-   "kind": "other",
+   "kind": "protein-membrane",
    "pdb": [],
    "ingredients": [
-    "arrow"
+    "Art Olson"
    ],
    "recipes": [
-    "cats"
+    "cellvis2"
    ],
    "usage": [
     {
-     "recipe": "cats.json",
-     "ingredient": "arrow",
-     "label": "protein_label",
-     "section": "cytoplasme",
-     "scale2d": 3.0,
-     "offsety": 0.0
+     "recipe": "cellvis2.json",
+     "ingredient": "Art Olson",
+     "section": "surface",
+     "compartment": "newCompartment1",
+     "scale2d": 2.0,
+     "offsety": 55.0,
+     "lengthy": 0.0
     }
    ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/arrow.png"
+   "source": "cellPAINT2D Assets/Resources/Recipie/arthur_olson.png",
+   "contributor": "Arthur Olson"
   },
   {
    "id": "atpsynthase",
@@ -14222,524 +14224,6 @@
    "recipes": [],
    "usage": [],
    "source": "cellPAINT2D Assets/Resources/Recipie/capsid_background.png"
-  },
-  {
-   "id": "cat1",
-   "file": "sprites/cellpaint/cat1.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/cat1.png",
-   "width": 111,
-   "height": 168,
-   "bytes": 20302,
-   "sha256": "fa7f137b656dbffa6813d48f609d9d43a6b9d0205ef7db844c4a1b77e3c8207a",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "other",
-   "pdb": [],
-   "ingredients": [
-    "cat1"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "cat1",
-     "label": "protein_label",
-     "section": "interior",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/cat1.png"
-  },
-  {
-   "id": "cat2",
-   "file": "sprites/cellpaint/cat2.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/cat2.png",
-   "width": 118,
-   "height": 108,
-   "bytes": 17829,
-   "sha256": "1ae5e54bac2b091d935bb620ba9a714c52d22e5f7f91ae660392cdb1bd235603",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "other",
-   "pdb": [],
-   "ingredients": [
-    "cat2"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "cat2",
-     "label": "protein_label",
-     "section": "interior",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/cat2.png"
-  },
-  {
-   "id": "cat3",
-   "file": "sprites/cellpaint/cat3.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/cat3.png",
-   "width": 62,
-   "height": 437,
-   "bytes": 44850,
-   "sha256": "ecd113c681a7738458aee1d1b6e239c60c05d16adfd6c6870cc302440cc26e97",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "other",
-   "pdb": [],
-   "ingredients": [
-    "cat3"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "cat3",
-     "label": "protein_label",
-     "section": "interior",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/cat3.png"
-  },
-  {
-   "id": "cat4",
-   "file": "sprites/cellpaint/cat4.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/cat4.png",
-   "width": 55,
-   "height": 57,
-   "bytes": 7148,
-   "sha256": "082c23d612333ad40c93e2909272ba9ca1e0aa3133fb4fea3ea9a7e68199713e",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "other",
-   "pdb": [],
-   "ingredients": [
-    "cat4"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "cat4",
-     "label": "protein_label",
-     "section": "interior",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/cat4.png"
-  },
-  {
-   "id": "cat5",
-   "file": "sprites/cellpaint/cat5.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/cat5.png",
-   "width": 68,
-   "height": 79,
-   "bytes": 11882,
-   "sha256": "a21c8fa1ac33c262c21e923e285ab01c3bfa2bf5869b5b9823999de9b8b10757",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "other",
-   "pdb": [],
-   "ingredients": [
-    "cat5"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "cat5",
-     "label": "protein_label",
-     "section": "interior",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/cat5.png"
-  },
-  {
-   "id": "cat6",
-   "file": "sprites/cellpaint/cat6.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/cat6.png",
-   "width": 62,
-   "height": 75,
-   "bytes": 9435,
-   "sha256": "6665bf67e74dcf375f3ff43ab5a93cfd85aeb84470bc19e95548906491a2fb8f",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "other",
-   "pdb": [],
-   "ingredients": [
-    "cat6"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "cat6",
-     "label": "protein_label",
-     "section": "interior",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/cat6.png"
-  },
-  {
-   "id": "catmb1",
-   "file": "sprites/cellpaint/catmb1.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/catmb1.png",
-   "width": 148,
-   "height": 293,
-   "bytes": 90721,
-   "sha256": "003ee0945883b3c03aa97d095a70b1573b6b96ba6c33ed8c764e203837cc0579",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "membrane-segment",
-   "pdb": [],
-   "ingredients": [
-    "catmb1"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "catmb1",
-     "label": "protein_label",
-     "section": "surface",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 30.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/catmb1.png"
-  },
-  {
-   "id": "catmb2",
-   "file": "sprites/cellpaint/catmb2.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/catmb2.png",
-   "width": 174,
-   "height": 205,
-   "bytes": 77698,
-   "sha256": "8405278a0dfa2673406ef830639a283a1361bd106bf0d797b92f038675849d3c",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "membrane-segment",
-   "pdb": [],
-   "ingredients": [
-    "catmb2"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "catmb2",
-     "label": "protein_label",
-     "section": "surface",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/catmb2.png"
-  },
-  {
-   "id": "catmb3",
-   "file": "sprites/cellpaint/catmb3.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/catmb3.png",
-   "width": 153,
-   "height": 160,
-   "bytes": 40038,
-   "sha256": "74769dde67a1805ac17e52ac806d3ea212376b1fac03cb9f53cd3d638e53fad4",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "membrane-segment",
-   "pdb": [],
-   "ingredients": [
-    "catmb3"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "catmb3",
-     "label": "protein_label",
-     "section": "surface",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/catmb3.png"
-  },
-  {
-   "id": "catmb4",
-   "file": "sprites/cellpaint/catmb4.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/catmb4.png",
-   "width": 103,
-   "height": 194,
-   "bytes": 41012,
-   "sha256": "11a2552360c36868ace44570bf24c83e8ad536a97668668646de4be065986656",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "membrane-segment",
-   "pdb": [],
-   "ingredients": [
-    "catmb4"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "catmb4",
-     "label": "protein_label",
-     "section": "surface",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": -35.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/catmb4.png"
-  },
-  {
-   "id": "catmb5",
-   "file": "sprites/cellpaint/catmb5.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/catmb5.png",
-   "width": 89,
-   "height": 271,
-   "bytes": 51636,
-   "sha256": "2d93e8ef27d2bb222d7520a1f28dd839ba9fdb1176c56473f62a8a0c78c7b232",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "membrane-segment",
-   "pdb": [],
-   "ingredients": [
-    "catmb5"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "catmb5",
-     "label": "protein_label",
-     "section": "surface",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 20.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/catmb5.png"
-  },
-  {
-   "id": "catmb6",
-   "file": "sprites/cellpaint/catmb6.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/catmb6.png",
-   "width": 153,
-   "height": 121,
-   "bytes": 30448,
-   "sha256": "75e52d0fc3d017b29e987019b8a098f1930874cfa4e34b1a274fd8949d69b0db",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "membrane-segment",
-   "pdb": [],
-   "ingredients": [
-    "catmb6"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "catmb6",
-     "label": "protein_label",
-     "section": "surface",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": -40.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/catmb6.png"
-  },
-  {
-   "id": "catmb7",
-   "file": "sprites/cellpaint/catmb7.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/catmb7.png",
-   "width": 180,
-   "height": 173,
-   "bytes": 20761,
-   "sha256": "c322e039d4aa66b518740448650744a3b29c8099441428d2c9fccc24fee7f8c1",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "membrane-segment",
-   "pdb": [],
-   "ingredients": [
-    "catmb7"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "catmb7",
-     "label": "protein_label",
-     "section": "surface",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 35.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/catmb7.png"
-  },
-  {
-   "id": "catmb8",
-   "file": "sprites/cellpaint/catmb8.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/catmb8.png",
-   "width": 103,
-   "height": 400,
-   "bytes": 36868,
-   "sha256": "1b4ffefe3ad022479ebe95d6c0c69c2e80f65ae7e030ad5ad8d663f668194243",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "membrane-segment",
-   "pdb": [],
-   "ingredients": [
-    "catmb8"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "catmb8",
-     "label": "protein_label",
-     "section": "surface",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 80.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/catmb8.png"
   },
   {
    "id": "cholesterol",
@@ -14831,6 +14315,44 @@
     }
    ],
    "source": "cellPAINT2D Assets/Resources/Recipie/cholesterol_inner.png"
+  },
+  {
+   "id": "david_goodsell",
+   "file": "sprites/cellpaint/david_goodsell.png",
+   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/david_goodsell.png",
+   "width": 276,
+   "height": 328,
+   "bytes": 78754,
+   "sha256": "343dbcbc838be791c96d5dbc266f3a507cd21ac78d6866d3944472079c2b8a55",
+   "scale2d": 2.0,
+   "scale2d_values": [
+    2.0
+   ],
+   "pivot": [
+    0.5,
+    0.5
+   ],
+   "kind": "fiber",
+   "pdb": [],
+   "ingredients": [
+    "David Goodsell"
+   ],
+   "recipes": [
+    "cellvis2"
+   ],
+   "usage": [
+    {
+     "recipe": "cellvis2.json",
+     "ingredient": "David Goodsell",
+     "section": "interior",
+     "compartment": "newCompartment1",
+     "scale2d": 2.0,
+     "offsety": 55.0,
+     "lengthy": 160.0
+    }
+   ],
+   "source": "cellPAINT2D Assets/Resources/Recipie/david_goodsell.png",
+   "contributor": "David Goodsell"
   },
   {
    "id": "egf",
@@ -14952,117 +14474,6 @@
     }
    ],
    "source": "cellPAINT2D Assets/Resources/Recipie/factorx.png"
-  },
-  {
-   "id": "fiber1",
-   "file": "sprites/cellpaint/fiber1.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/fiber1.png",
-   "width": 165,
-   "height": 99,
-   "bytes": 23757,
-   "sha256": "82137758391e530bb08ba40fe611987ceb2291bbef177722bbd51ffad2d45e51",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "fiber",
-   "pdb": [],
-   "ingredients": [
-    "fiber1"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "fiber1",
-     "label": "protein_label",
-     "section": "interior",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/fiber1.png"
-  },
-  {
-   "id": "fiber2",
-   "file": "sprites/cellpaint/fiber2.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/fiber2.png",
-   "width": 48,
-   "height": 27,
-   "bytes": 4026,
-   "sha256": "052b6c8d8d3c0b8c4317f778622716cfc674b66d659a9f25c9d6d5824aca21ff",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "fiber",
-   "pdb": [],
-   "ingredients": [
-    "fiber2"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "fiber2",
-     "label": "protein_label",
-     "section": "interior",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/fiber2.png"
-  },
-  {
-   "id": "fiber3",
-   "file": "sprites/cellpaint/fiber3.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/fiber3.png",
-   "width": 175,
-   "height": 80,
-   "bytes": 15745,
-   "sha256": "d9cbcca743fda4513dec87725409d09fd1f1a3e9597044866035f932182f129b",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "fiber",
-   "pdb": [],
-   "ingredients": [
-    "fiber3"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "fiber3",
-     "label": "protein_label",
-     "section": "interior",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/fiber3.png"
   },
   {
    "id": "fibrinogen_w",
@@ -15385,6 +14796,44 @@
    "source": "cellPAINT2D Assets/Resources/Recipie/lipidPEG_mushroom.png"
   },
   {
+   "id": "ludo",
+   "file": "sprites/cellpaint/ludo.png",
+   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/ludo.png",
+   "width": 276,
+   "height": 328,
+   "bytes": 67492,
+   "sha256": "d8e249cff9c9a994f6f1facd2799097057da6e931b4c1771370cef3afec66646",
+   "scale2d": 2.0,
+   "scale2d_values": [
+    2.0
+   ],
+   "pivot": [
+    0.5,
+    0.5
+   ],
+   "kind": "protein-membrane",
+   "pdb": [],
+   "ingredients": [
+    "Ludovic Autin"
+   ],
+   "recipes": [
+    "cellvis2"
+   ],
+   "usage": [
+    {
+     "recipe": "cellvis2.json",
+     "ingredient": "Ludovic Autin",
+     "section": "surface",
+     "compartment": "newCompartment1",
+     "scale2d": 2.0,
+     "offsety": -55.0,
+     "lengthy": 0.0
+    }
+   ],
+   "source": "cellPAINT2D Assets/Resources/Recipie/ludo.png",
+   "contributor": "Ludovic Autin"
+  },
+  {
    "id": "mRNA_C",
    "file": "sprites/cellpaint/mRNA_C.png",
    "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/mRNA_C.png",
@@ -15674,117 +15123,6 @@
    "source": "cellPAINT2D Assets/Resources/Recipie/miRNA_C.png"
   },
   {
-   "id": "molecule",
-   "file": "sprites/cellpaint/molecule.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/molecule.png",
-   "width": 16,
-   "height": 15,
-   "bytes": 955,
-   "sha256": "7eda8dafcf5aebe69aa76647bac973f5bbdb12c4924daa2e66d13838d58916c4",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "other",
-   "pdb": [],
-   "ingredients": [
-    "molecule"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "molecule",
-     "label": "protein_label",
-     "section": "interior",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/molecule.png"
-  },
-  {
-   "id": "mouse1",
-   "file": "sprites/cellpaint/mouse1.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/mouse1.png",
-   "width": 82,
-   "height": 43,
-   "bytes": 8776,
-   "sha256": "71f428c326691fbe335a119a82bb95c63bff8cdd7e8bdccaf437bd089ad57c17",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "other",
-   "pdb": [],
-   "ingredients": [
-    "mouse1"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "mouse1",
-     "label": "protein_label",
-     "section": "interior",
-     "compartment": "newCompartment0",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/mouse1.png"
-  },
-  {
-   "id": "mousemb1",
-   "file": "sprites/cellpaint/mousemb1.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/mousemb1.png",
-   "width": 19,
-   "height": 49,
-   "bytes": 2862,
-   "sha256": "bb8d3fb7b80246cd6030a90b54074ec0b56a84f5d7662f58de035bf67ed998f0",
-   "scale2d": 1.0,
-   "scale2d_values": [
-    1.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "membrane-segment",
-   "pdb": [],
-   "ingredients": [
-    "mousemb1"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "mousemb1",
-     "label": "protein_label",
-     "section": "interior",
-     "compartment": "newCompartment0",
-     "scale2d": 1.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/mousemb1.png"
-  },
-  {
    "id": "nucleoprotein",
    "file": "sprites/cellpaint/nucleoprotein.png",
    "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/nucleoprotein.png",
@@ -16002,42 +15340,6 @@
    "recipes": [],
    "usage": [],
    "source": "cellPAINT2D Assets/Resources/Recipie/pyruvate_w.png"
-  },
-  {
-   "id": "question",
-   "file": "sprites/cellpaint/question.png",
-   "url": "https://raw.githubusercontent.com/autinlab/TheLabAsset/main/sprites/cellpaint/question.png",
-   "width": 61,
-   "height": 108,
-   "bytes": 17274,
-   "sha256": "0ecf571b4401af9cf864bef8f1b018622906a6837504e52ec346fbe94b86074f",
-   "scale2d": 3.0,
-   "scale2d_values": [
-    3.0
-   ],
-   "pivot": [
-    0.5,
-    0.5
-   ],
-   "kind": "other",
-   "pdb": [],
-   "ingredients": [
-    "question"
-   ],
-   "recipes": [
-    "cats"
-   ],
-   "usage": [
-    {
-     "recipe": "cats.json",
-     "ingredient": "question",
-     "label": "protein_label",
-     "section": "cytoplasme",
-     "scale2d": 3.0,
-     "offsety": 0.0
-    }
-   ],
-   "source": "cellPAINT2D Assets/Resources/Recipie/question.png"
   },
   {
    "id": "spike",
@@ -16391,7 +15693,7 @@
    "ingredients": [],
    "recipes": [],
    "usage": [],
-   "source": "cellPAINT2D Assets/cellPAINT/Textures/NewAssets/Lipid_Background.png"
+   "source": "cellPAINT2D "
   },
   {
    "id": "textures.membrane.Lipid_Gradient",
@@ -16412,7 +15714,7 @@
    "ingredients": [],
    "recipes": [],
    "usage": [],
-   "source": "cellPAINT2D Assets/cellPAINT/Textures/NewAssets/Lipid_Gradient.png"
+   "source": "cellPAINT2D "
   },
   {
    "id": "textures.membrane.Lipid_Lipids",
@@ -16433,7 +15735,7 @@
    "ingredients": [],
    "recipes": [],
    "usage": [],
-   "source": "cellPAINT2D Assets/cellPAINT/Textures/NewAssets/Lipid_Lipids.png"
+   "source": "cellPAINT2D "
   },
   {
    "id": "textures.membrane.MembraneCoarse_View2",
@@ -16454,7 +15756,7 @@
    "ingredients": [],
    "recipes": [],
    "usage": [],
-   "source": "cellPAINT2D Assets/cellPAINT/Textures/NewAssets/MembraneCoarse_View2.png"
+   "source": "cellPAINT2D "
   },
   {
    "id": "textures.membrane.MembraneCoarse_View3",
@@ -16475,7 +15777,7 @@
    "ingredients": [],
    "recipes": [],
    "usage": [],
-   "source": "cellPAINT2D Assets/cellPAINT/Textures/NewAssets/MembraneCoarse_View3.png"
+   "source": "cellPAINT2D "
   },
   {
    "id": "textures.membrane.MembraneCoarse_View4",
@@ -16496,7 +15798,7 @@
    "ingredients": [],
    "recipes": [],
    "usage": [],
-   "source": "cellPAINT2D Assets/cellPAINT/Textures/NewAssets/MembraneCoarse_View4.png"
+   "source": "cellPAINT2D "
   },
   {
    "id": "textures.proteins.HU",
@@ -16517,7 +15819,7 @@
    "ingredients": [],
    "recipes": [],
    "usage": [],
-   "source": "cellPAINT2D Assets/cellPAINT/Textures/NewAssets/HU.png"
+   "source": "cellPAINT2D "
   },
   {
    "id": "textures.proteins.PhosphFructoKinase",
@@ -16538,7 +15840,7 @@
    "ingredients": [],
    "recipes": [],
    "usage": [],
-   "source": "cellPAINT2D Assets/cellPAINT/Textures/NewAssets/PhosphFructoKinase.png"
+   "source": "cellPAINT2D "
   },
   {
    "id": "textures.proteins.Pyruvate_Kinase",
@@ -16559,7 +15861,7 @@
    "ingredients": [],
    "recipes": [],
    "usage": [],
-   "source": "cellPAINT2D Assets/cellPAINT/Textures/NewAssets/Pyruvate Kinase.png"
+   "source": "cellPAINT2D "
   },
   {
    "id": "textures.proteins.RNA_Polymerase",
@@ -16580,7 +15882,7 @@
    "ingredients": [],
    "recipes": [],
    "usage": [],
-   "source": "cellPAINT2D Assets/cellPAINT/Textures/NewAssets/RNA Polymerase.png"
+   "source": "cellPAINT2D "
   },
   {
    "id": "textures.proteins.Ribosome",
@@ -16660,7 +15962,7 @@
      "offsety": 0.0
     }
    ],
-   "source": "cellPAINT2D Assets/cellPAINT/Textures/NewAssets/Ribosome.png"
+   "source": "cellPAINT2D "
   },
   {
    "id": "textures.proteins.plv_Polio",
@@ -16681,7 +15983,7 @@
    "ingredients": [],
    "recipes": [],
    "usage": [],
-   "source": "cellPAINT2D Assets/cellPAINT/Textures/NewAssets/plv_Polio.png"
+   "source": "cellPAINT2D "
   },
   {
    "id": "textures.ribosome_dodec.1",

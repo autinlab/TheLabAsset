@@ -53,19 +53,23 @@ TEXTURES = {
 TEXTURE_DIRS = {"ribosome_dodec": "Ribosome_Dodec", "actin_frames": "Actin"}  # NewAssets sub-folders
 
 # Photographs of colleagues (the cellvis2 recipe, "Machinery of the community") and two more portraits: not copied,
-# the consent of the people shown is not known (listed in index.json `excluded`).
+# the consent of the people shown is not known (listed in index.json `excluded`). The autinlab people are in (Ludo,
+# 2026-11-19): ludo, arthur_olson, david_goodsell.
 PORTRAITS = {
-    "Alexrose", "AndersYnnerman", "arthur_olson", "Beata-Mierzwa", "bridget-carragher", "danielle_grotjahn",
-    "david_goodsell", "DavidSehnal", "drew_berry", "ElizabethVilla", "graham_johnson", "IvanViola-fotor", "j-wasa",
-    "John-Glass", "ludo", "Markus-Covert", "MatthewSwulius", "PeterMindek", "rommie-amaro", "Roseanna_Zia", "SaiLi",
+    "Alexrose", "AndersYnnerman", "Beata-Mierzwa", "bridget-carragher", "danielle_grotjahn",
+    "DavidSehnal", "drew_berry", "ElizabethVilla", "graham_johnson", "IvanViola-fotor", "j-wasa",
+    "John-Glass", "Markus-Covert", "MatthewSwulius", "PeterMindek", "rommie-amaro", "Roseanna_Zia", "SaiLi",
     "stefano", "TimDavison", "TomBartol", "vera", "vishalSivasankar", "zan",
 }
 # Contributors named by a file (a person other than the lab), by file stem.
 CONTRIBUTORS = {
     "ionizable_David": "David Goodsell",
     "ionizable_Adam_inner": "Adam Gardner",
+    "ludo": "Ludovic Autin", "arthur_olson": "Arthur Olson", "david_goodsell": "David Goodsell",
     "Alexrose": "Alex Rose", "vishalSivasankar": "Vishal Sivasankar",
 }
+# The cats recipe's drawings: left out for now (Ludo, 2026-11-19).
+DEFERRED = {"cat1", "cat2", "cat3", "cat4", "cat5", "cat6", "mouse1", "arrow", "molecule", "question"} | {f"catmb{i}" for i in range(1, 9)} | {"fiber1", "fiber2", "fiber3", "mousemb1"}
 THIRD_PARTY_HINT = {"Roseanna_Zia"}  # portraits of people outside the lab
 
 
@@ -121,6 +125,9 @@ def do_import(checkout: Path) -> None:
         rel = p.relative_to(res).as_posix()
         if p.stem in PORTRAITS:
             skipped.append({"file": rel, "reason": "portrait of a person"})
+            continue
+        if p.stem in DEFERRED:
+            skipped.append({"file": rel, "reason": "cats recipe, left out for now"})
             continue
         put(p, rel, "Assets/Resources/Recipie/" + rel)
     # textures: skip a file the Recipie folder already holds byte for byte

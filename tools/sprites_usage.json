@@ -1235,8 +1235,8 @@
    "origin": "Assets/Resources/Recipie/argonaute_w.png"
   },
   {
-   "file": "arrow.png",
-   "origin": "Assets/Resources/Recipie/arrow.png"
+   "file": "arthur_olson.png",
+   "origin": "Assets/Resources/Recipie/arthur_olson.png"
   },
   {
    "file": "atpsynthase.png",
@@ -1247,68 +1247,16 @@
    "origin": "Assets/Resources/Recipie/capsid_background.png"
   },
   {
-   "file": "cat1.png",
-   "origin": "Assets/Resources/Recipie/cat1.png"
-  },
-  {
-   "file": "cat2.png",
-   "origin": "Assets/Resources/Recipie/cat2.png"
-  },
-  {
-   "file": "cat3.png",
-   "origin": "Assets/Resources/Recipie/cat3.png"
-  },
-  {
-   "file": "cat4.png",
-   "origin": "Assets/Resources/Recipie/cat4.png"
-  },
-  {
-   "file": "cat5.png",
-   "origin": "Assets/Resources/Recipie/cat5.png"
-  },
-  {
-   "file": "cat6.png",
-   "origin": "Assets/Resources/Recipie/cat6.png"
-  },
-  {
-   "file": "catmb1.png",
-   "origin": "Assets/Resources/Recipie/catmb1.png"
-  },
-  {
-   "file": "catmb2.png",
-   "origin": "Assets/Resources/Recipie/catmb2.png"
-  },
-  {
-   "file": "catmb3.png",
-   "origin": "Assets/Resources/Recipie/catmb3.png"
-  },
-  {
-   "file": "catmb4.png",
-   "origin": "Assets/Resources/Recipie/catmb4.png"
-  },
-  {
-   "file": "catmb5.png",
-   "origin": "Assets/Resources/Recipie/catmb5.png"
-  },
-  {
-   "file": "catmb6.png",
-   "origin": "Assets/Resources/Recipie/catmb6.png"
-  },
-  {
-   "file": "catmb7.png",
-   "origin": "Assets/Resources/Recipie/catmb7.png"
-  },
-  {
-   "file": "catmb8.png",
-   "origin": "Assets/Resources/Recipie/catmb8.png"
-  },
-  {
    "file": "cholesterol.png",
    "origin": "Assets/Resources/Recipie/cholesterol.png"
   },
   {
    "file": "cholesterol_inner.png",
    "origin": "Assets/Resources/Recipie/cholesterol_inner.png"
+  },
+  {
+   "file": "david_goodsell.png",
+   "origin": "Assets/Resources/Recipie/david_goodsell.png"
   },
   {
    "file": "egf.png",
@@ -1325,18 +1273,6 @@
   {
    "file": "factorx.png",
    "origin": "Assets/Resources/Recipie/factorx.png"
-  },
-  {
-   "file": "fiber1.png",
-   "origin": "Assets/Resources/Recipie/fiber1.png"
-  },
-  {
-   "file": "fiber2.png",
-   "origin": "Assets/Resources/Recipie/fiber2.png"
-  },
-  {
-   "file": "fiber3.png",
-   "origin": "Assets/Resources/Recipie/fiber3.png"
   },
   {
    "file": "fibrinogen_w.png",
@@ -1383,6 +1319,10 @@
    "origin": "Assets/Resources/Recipie/lipidPEG_mushroom.png"
   },
   {
+   "file": "ludo.png",
+   "origin": "Assets/Resources/Recipie/ludo.png"
+  },
+  {
    "file": "mRNA_C.png",
    "origin": "Assets/Resources/Recipie/mRNA_C.png"
   },
@@ -1423,18 +1363,6 @@
    "origin": "Assets/Resources/Recipie/miRNA_C.png"
   },
   {
-   "file": "molecule.png",
-   "origin": "Assets/Resources/Recipie/molecule.png"
-  },
-  {
-   "file": "mouse1.png",
-   "origin": "Assets/Resources/Recipie/mouse1.png"
-  },
-  {
-   "file": "mousemb1.png",
-   "origin": "Assets/Resources/Recipie/mousemb1.png"
-  },
-  {
    "file": "nucleoprotein.png",
    "origin": "Assets/Resources/Recipie/nucleoprotein.png"
   },
@@ -1463,10 +1391,6 @@
    "origin": "Assets/Resources/Recipie/pyruvate_w.png"
   },
   {
-   "file": "question.png",
-   "origin": "Assets/Resources/Recipie/question.png"
-  },
-  {
    "file": "spike.png",
    "origin": "Assets/Resources/Recipie/spike.png"
   },
@@ -1477,54 +1401,6 @@
   {
    "file": "transferin_w.png",
    "origin": "Assets/Resources/Recipie/transferin_w.png"
-  },
-  {
-   "file": "textures/membrane/MembraneCoarse_View2.png",
-   "origin": "Assets/cellPAINT/Textures/NewAssets/MembraneCoarse_View2.png"
-  },
-  {
-   "file": "textures/membrane/MembraneCoarse_View3.png",
-   "origin": "Assets/cellPAINT/Textures/NewAssets/MembraneCoarse_View3.png"
-  },
-  {
-   "file": "textures/membrane/MembraneCoarse_View4.png",
-   "origin": "Assets/cellPAINT/Textures/NewAssets/MembraneCoarse_View4.png"
-  },
-  {
-   "file": "textures/membrane/Lipid_Lipids.png",
-   "origin": "Assets/cellPAINT/Textures/NewAssets/Lipid_Lipids.png"
-  },
-  {
-   "file": "textures/membrane/Lipid_Gradient.png",
-   "origin": "Assets/cellPAINT/Textures/NewAssets/Lipid_Gradient.png"
-  },
-  {
-   "file": "textures/membrane/Lipid_Background.png",
-   "origin": "Assets/cellPAINT/Textures/NewAssets/Lipid_Background.png"
-  },
-  {
-   "file": "textures/proteins/RNA Polymerase.png",
-   "origin": "Assets/cellPAINT/Textures/NewAssets/RNA Polymerase.png"
-  },
-  {
-   "file": "textures/proteins/HU.png",
-   "origin": "Assets/cellPAINT/Textures/NewAssets/HU.png"
-  },
-  {
-   "file": "textures/proteins/Pyruvate Kinase.png",
-   "origin": "Assets/cellPAINT/Textures/NewAssets/Pyruvate Kinase.png"
-  },
-  {
-   "file": "textures/proteins/PhosphFructoKinase.png",
-   "origin": "Assets/cellPAINT/Textures/NewAssets/PhosphFructoKinase.png"
-  },
-  {
-   "file": "textures/proteins/Ribosome.png",
-   "origin": "Assets/cellPAINT/Textures/NewAssets/Ribosome.png"
-  },
-  {
-   "file": "textures/proteins/plv_Polio.png",
-   "origin": "Assets/cellPAINT/Textures/NewAssets/plv_Polio.png"
   },
   {
    "file": "textures/ribosome_dodec/1.png",
@@ -1685,24 +1561,88 @@
    "reason": "portrait of a person"
   },
   {
-   "file": "arthur_olson.png",
-   "reason": "portrait of a person"
+   "file": "arrow.png",
+   "reason": "cats recipe, left out for now"
   },
   {
    "file": "bridget-carragher.png",
    "reason": "portrait of a person"
   },
   {
-   "file": "danielle_grotjahn.png",
-   "reason": "portrait of a person"
+   "file": "cat1.png",
+   "reason": "cats recipe, left out for now"
   },
   {
-   "file": "david_goodsell.png",
+   "file": "cat2.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "cat3.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "cat4.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "cat5.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "cat6.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb1.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb2.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb3.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb4.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb5.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb6.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb7.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "catmb8.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "danielle_grotjahn.png",
    "reason": "portrait of a person"
   },
   {
    "file": "drew_berry.png",
    "reason": "portrait of a person"
+  },
+  {
+   "file": "fiber1.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "fiber2.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "fiber3.png",
+   "reason": "cats recipe, left out for now"
   },
   {
    "file": "graham_johnson.png",
@@ -1713,8 +1653,20 @@
    "reason": "portrait of a person"
   },
   {
-   "file": "ludo.png",
-   "reason": "portrait of a person"
+   "file": "molecule.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "mouse1.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "mousemb1.png",
+   "reason": "cats recipe, left out for now"
+  },
+  {
+   "file": "question.png",
+   "reason": "cats recipe, left out for now"
   },
   {
    "file": "rommie-amaro.png",
