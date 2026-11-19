@@ -6,6 +6,7 @@ building in the 1920s, made from single photos and from a short phone video.
 ```
 splat/        3D Gaussian Splatting .ply files (SHARP, one photo each)
 mesh/         textured / vertex-colored meshes (.glb, .usdz)
+sprites/      cellPAINT 2D sprites (PNG) and sprites/index.json (see Sprites)
 thumbs/       small JPG thumbnails, one per asset
 assets.json   machine-readable index of every asset (query this from apps)
 tools/        build_manifest.py (regenerates assets.json) + the scripts that made the assets
@@ -37,6 +38,13 @@ tools/        build_manifest.py (regenerates assets.json) + the scripts that mad
 <img src="thumbs/art_video_IMG_9390_fullbody.jpg" width="480" alt="Art full-body mesh, four views">
 <img src="thumbs/art_photo_IMG_9389_mesh.jpg" width="480" alt="Art photo mesh, three views">
 </p>
+
+## Sprites
+
+`sprites/cellpaint/` holds cellPAINT 2D's flat molecule sprites (387 PNGs, 123 MB), with `sprites/index.json`:
+URL, size, scale (pixels per Å), kind, PDB id and the recipes and ingredient names that use each. See
+[sprites/README.md](sprites/README.md) (scale convention, loading, citations). Licence: [CC BY 4.0](sprites/LICENSE). Regenerate the
+index with `python tools/build_sprites_index.py`.
 
 ## How they were made
 
