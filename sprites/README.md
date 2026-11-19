@@ -1,7 +1,7 @@
 # sprites/
 
 2D sprites of [cellPAINT 2](https://ccsb.scripps.edu/cellpaint): flat, illustrated molecules (proteins, membrane
-segments, fibers, lipids, nucleic acids, virus parts) drawn in the style of David Goodsell. meso\* loads them by URL to
+segments, fibers, lipids, nucleic acids, virus parts) drawn by Adam Gardner, inspired by David Goodsell's illustrations. meso\* loads them by URL to
 draw cellPAINT recipes and scenes. This folder is a copy of cellPAINT's own sprite images, with an index.
 
 ```
@@ -12,14 +12,14 @@ sprites/
 ```
 
 **Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** ([LICENSE](LICENSE)), © Autin lab, Scripps
-Research. Reuse them freely, crediting "cellPAINT sprites, Autin lab, Scripps Research" and citing the cellPAINT paper
+Research. Reuse them freely, crediting "cellPAINT sprites by Adam Gardner (inspired by David Goodsell), Autin lab, Scripps Research" and citing the cellPAINT paper
 below. This licence covers the images in this folder only; cellPAINT 2D's code stays GPL-3.0.
 
 ## How they were made
 
 The sprites are cellPAINT 2D's (Autin lab, Scripps Research; source
 [corredD/cellPAINT2D](https://github.com/corredD/cellPAINT2D)): each is a transparent PNG of a molecule or part,
-illustrated from its PDB structure(s) with the Goodsell watercolor-and-outline look. They are copied unmodified by
+illustrated by Adam Gardner from its PDB structure(s), in a look inspired by David Goodsell's watercolors. They are copied unmodified by
 `tools/build_sprites_index.py import <cellPAINT2D checkout>` (`Assets/Resources/Recipie/`, plus the membrane and a few
 protein textures of `Assets/cellPAINT/Textures/NewAssets/`). The same command reads the recipes
 (`Assets/Resources/Recipes/*.json`) to record which ingredient of which recipe uses each image. Not copied: UI images,

@@ -230,7 +230,7 @@ def do_index() -> None:
         "schema": SCHEMA, "repo": f"https://github.com/{REPO}", "base_url": RAW, "updated": date.today().isoformat(),
         "count": len(items), "total_bytes": sum(i["bytes"] for i in items),
         "source": {"repo": meta["source"], "commit": meta["commit"],
-                   "note": "cellPAINT 2D (Autin lab, Scripps Research). Licensed CC BY 4.0 (sprites/LICENSE)."}, "license": "CC-BY-4.0",
+                   "note": "cellPAINT 2D (Autin lab, Scripps Research); sprites by Adam Gardner, inspired by David Goodsell. Licensed CC BY 4.0 (sprites/LICENSE)."}, "license": "CC-BY-4.0",
         "scale": SCALE,
         "lookup": {"by_image": by_image, "by_ingredient": by_ingredient},
         "excluded": meta["excluded"],
