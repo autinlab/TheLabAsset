@@ -8,8 +8,9 @@
  "source": {
   "repo": "https://github.com/corredD/cellPAINT2D",
   "commit": "9b0eb4f",
-  "note": "cellPAINT 2D (Autin lab, Scripps Research). LICENSE: TO BE DECIDED (see sprites/README.md)."
+  "note": "cellPAINT 2D (Autin lab, Scripps Research). Licensed CC BY 4.0 (sprites/LICENSE)."
  },
+ "license": "CC-BY-4.0",
  "scale": {
   "unit": "px_per_angstrom",
   "how": "the recipe's sprite.scale2d (PrefabProperties.SetupFromNode); per-ingredient, not per-file: see usage[]",
